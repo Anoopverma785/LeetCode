@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/Anoopverma785/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Anoopverma785/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0162-find-peak-element](https://github.com/Anoopverma785/LeetCode/tree/master/0162-find-peak-element) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Anoopverma785/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/Anoopverma785/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0162-find-peak-element](https://github.com/Anoopverma785/LeetCode/tree/master/0162-find-peak-element) |
 | [3477-fruits-into-baskets-ii](https://github.com/Anoopverma785/LeetCode/tree/master/3477-fruits-into-baskets-ii) |
 ## Segment Tree
@@ -79,4 +81,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Anoopverma785/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/Anoopverma785/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
 <!---LeetCode Topics End-->
