@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/Anoopverma785/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Anoopverma785/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3870-count-commas-in-range](https://github.com/Anoopverma785/LeetCode/tree/master/3870-count-commas-in-range) |
+| [3875-construct-uniform-parity-array-i](https://github.com/Anoopverma785/LeetCode/tree/master/3875-construct-uniform-parity-array-i) |
 ## Recursion
 |  |
 | ------- |
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/Anoopverma785/LeetCode/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Anoopverma785/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3477-fruits-into-baskets-ii](https://github.com/Anoopverma785/LeetCode/tree/master/3477-fruits-into-baskets-ii) |
+| [3875-construct-uniform-parity-array-i](https://github.com/Anoopverma785/LeetCode/tree/master/3875-construct-uniform-parity-array-i) |
 ## Sorting
 |  |
 | ------- |
