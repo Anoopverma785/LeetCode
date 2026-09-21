@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/Anoopverma785/LeetCode/tree/master/0011-container-with-most-water) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Anoopverma785/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0075-sort-colors](https://github.com/Anoopverma785/LeetCode/tree/master/0075-sort-colors) |
 | [0125-valid-palindrome](https://github.com/Anoopverma785/LeetCode/tree/master/0125-valid-palindrome) |
 | [0283-move-zeroes](https://github.com/Anoopverma785/LeetCode/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/Anoopverma785/LeetCode/tree/master/0344-reverse-string) |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Anoopverma785/LeetCode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/Anoopverma785/LeetCode/tree/master/0035-search-insert-position) |
 | [0053-maximum-subarray](https://github.com/Anoopverma785/LeetCode/tree/master/0053-maximum-subarray) |
+| [0075-sort-colors](https://github.com/Anoopverma785/LeetCode/tree/master/0075-sort-colors) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Anoopverma785/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0162-find-peak-element](https://github.com/Anoopverma785/LeetCode/tree/master/0162-find-peak-element) |
 | [0283-move-zeroes](https://github.com/Anoopverma785/LeetCode/tree/master/0283-move-zeroes) |
@@ -75,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/Anoopverma785/LeetCode/tree/master/0075-sort-colors) |
 | [0242-valid-anagram](https://github.com/Anoopverma785/LeetCode/tree/master/0242-valid-anagram) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Anoopverma785/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Anoopverma785/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -148,4 +151,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0643-maximum-average-subarray-i](https://github.com/Anoopverma785/LeetCode/tree/master/0643-maximum-average-subarray-i) |
 | [0904-fruit-into-baskets](https://github.com/Anoopverma785/LeetCode/tree/master/0904-fruit-into-baskets) |
 | [1004-max-consecutive-ones-iii](https://github.com/Anoopverma785/LeetCode/tree/master/1004-max-consecutive-ones-iii) |
+## Quicksort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/Anoopverma785/LeetCode/tree/master/0075-sort-colors) |
+## Bubble Sort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/Anoopverma785/LeetCode/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
