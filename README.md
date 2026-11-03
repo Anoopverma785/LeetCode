@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/Anoopverma785/LeetCode/tree/master/0075-sort-colors) |
 | [0125-valid-palindrome](https://github.com/Anoopverma785/LeetCode/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/Anoopverma785/LeetCode/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/Anoopverma785/LeetCode/tree/master/0142-linked-list-cycle-ii) |
 | [0283-move-zeroes](https://github.com/Anoopverma785/LeetCode/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/Anoopverma785/LeetCode/tree/master/0344-reverse-string) |
 | [1768-merge-strings-alternately](https://github.com/Anoopverma785/LeetCode/tree/master/1768-merge-strings-alternately) |
@@ -135,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/Anoopverma785/LeetCode/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/Anoopverma785/LeetCode/tree/master/0142-linked-list-cycle-ii) |
 | [0242-valid-anagram](https://github.com/Anoopverma785/LeetCode/tree/master/0242-valid-anagram) |
 | [0560-subarray-sum-equals-k](https://github.com/Anoopverma785/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0904-fruit-into-baskets](https://github.com/Anoopverma785/LeetCode/tree/master/0904-fruit-into-baskets) |
@@ -193,9 +195,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/Anoopverma785/LeetCode/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/Anoopverma785/LeetCode/tree/master/0142-linked-list-cycle-ii) |
 | [0206-reverse-linked-list](https://github.com/Anoopverma785/LeetCode/tree/master/0206-reverse-linked-list) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/Anoopverma785/LeetCode/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/Anoopverma785/LeetCode/tree/master/0142-linked-list-cycle-ii) |
 <!---LeetCode Topics End-->
