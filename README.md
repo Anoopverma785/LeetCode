@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/Anoopverma785/LeetCode/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/Anoopverma785/LeetCode/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/Anoopverma785/LeetCode/tree/master/0344-reverse-string) |
+| [0389-find-the-difference](https://github.com/Anoopverma785/LeetCode/tree/master/0389-find-the-difference) |
 | [0392-is-subsequence](https://github.com/Anoopverma785/LeetCode/tree/master/0392-is-subsequence) |
 | [0709-to-lower-case](https://github.com/Anoopverma785/LeetCode/tree/master/0709-to-lower-case) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/Anoopverma785/LeetCode/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
@@ -88,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0075-sort-colors](https://github.com/Anoopverma785/LeetCode/tree/master/0075-sort-colors) |
 | [0242-valid-anagram](https://github.com/Anoopverma785/LeetCode/tree/master/0242-valid-anagram) |
+| [0389-find-the-difference](https://github.com/Anoopverma785/LeetCode/tree/master/0389-find-the-difference) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Anoopverma785/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0912-sort-an-array](https://github.com/Anoopverma785/LeetCode/tree/master/0912-sort-an-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Anoopverma785/LeetCode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -143,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/Anoopverma785/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Anoopverma785/LeetCode/tree/master/0142-linked-list-cycle-ii) |
 | [0242-valid-anagram](https://github.com/Anoopverma785/LeetCode/tree/master/0242-valid-anagram) |
+| [0389-find-the-difference](https://github.com/Anoopverma785/LeetCode/tree/master/0389-find-the-difference) |
 | [0560-subarray-sum-equals-k](https://github.com/Anoopverma785/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0904-fruit-into-baskets](https://github.com/Anoopverma785/LeetCode/tree/master/0904-fruit-into-baskets) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Anoopverma785/LeetCode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -209,4 +212,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0141-linked-list-cycle](https://github.com/Anoopverma785/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Anoopverma785/LeetCode/tree/master/0142-linked-list-cycle-ii) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0389-find-the-difference](https://github.com/Anoopverma785/LeetCode/tree/master/0389-find-the-difference) |
 <!---LeetCode Topics End-->
