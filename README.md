@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/Anoopverma785/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Anoopverma785/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0643-maximum-average-subarray-i](https://github.com/Anoopverma785/LeetCode/tree/master/0643-maximum-average-subarray-i) |
+| [0682-baseball-game](https://github.com/Anoopverma785/LeetCode/tree/master/0682-baseball-game) |
 | [0704-binary-search](https://github.com/Anoopverma785/LeetCode/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/Anoopverma785/LeetCode/tree/master/0875-koko-eating-bananas) |
 | [0904-fruit-into-baskets](https://github.com/Anoopverma785/LeetCode/tree/master/0904-fruit-into-baskets) |
@@ -127,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0682-baseball-game](https://github.com/Anoopverma785/LeetCode/tree/master/0682-baseball-game) |
 | [3477-fruits-into-baskets-ii](https://github.com/Anoopverma785/LeetCode/tree/master/3477-fruits-into-baskets-ii) |
 ## Ordered Set
 |  |
@@ -241,4 +243,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0389-find-the-difference](https://github.com/Anoopverma785/LeetCode/tree/master/0389-find-the-difference) |
+## Stack
+|  |
+| ------- |
+| [0682-baseball-game](https://github.com/Anoopverma785/LeetCode/tree/master/0682-baseball-game) |
 <!---LeetCode Topics End-->
